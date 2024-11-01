@@ -36,7 +36,7 @@ project_entries:
     desc: It also has a scalable vertical list (in case you need it)
 
   - title: 1、批量修改文件名字、图片大小
-    url: 1、批量修改
+    url: tools-post
     desc: 该部分提供的妙妙工具用于批量修改文件名字、图片大小等。
 
   - title: 2、图像处理相关
