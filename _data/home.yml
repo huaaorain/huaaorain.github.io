@@ -9,31 +9,35 @@ navbar_entries:
     url: https://www.abhinav.co
 
 project_entries:
-  - title: Project 1
-    url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+  # - title: Project 1
+  #   url: overview-post
+  #   desc: This is an example project, configured in _data/home.yml
 
-  - title: Project 2
-    url: overview-post
-    desc: Projects are shown in card layout
+  # - title: Project 2
+  #   url: overview-post
+  #   desc: Projects are shown in card layout
 
-  - title: Project 3
-    url: overview-post
-    desc: You can control visibility from _config.yml file
+  # - title: Project 3
+  #   url: overview-post
+  #   desc: You can control visibility from _config.yml file
 
-  - title: Project 4
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
+  # - title: Project 4
+  #   url: overview-post
+  #   desc: This project uses highlight markup, configured in _data/home.yml
+  #   highlight: WIP
 
-  - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
+  # - title: Project 5
+  #   url: overview-post
+  #   desc: Moonwalk also has horizontal list (used in header and footer)
+  #   highlight: WIP
 
   - title: Project 6
     url: overview-post
     desc: It also has a scalable vertical list (in case you need it)
+
+  - title: All Collections
+    url: overview-post
+    desc: 这是一个所有妙妙工具的合集。
 
 old_project_entries:
   - title: Soopr

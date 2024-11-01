@@ -1,9 +1,10 @@
 title: Moonwalk
 author: Abhinav Saxena
-url: https://www.abhinavsaxena.com/moonwalk # root address of the site
+url: https://huaaorain.github.io # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Moonwalk is a fast and elegant Jekyll theme with a clean dark mode. It comes with horizontal list (for navbar and footer), card list (for portfolio), and a generic vertical list. It is very easy to modify in case you want to build over it - please see _layouts/home.html to do that.
+  本网站收集了一些工具性的妙妙工具或妙妙网站，如果您认为它对您有用的话还请在Github上点个星星，拜托啦！！！
 
+  This site is a collection of tools or sites that maybe useful to you, and if you think it will be useful to you, please point a star on Github!!!.
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
