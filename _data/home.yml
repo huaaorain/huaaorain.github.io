@@ -40,7 +40,7 @@ project_entries:
     desc: 该部分提供的妙妙工具用于批量修改文件名字、图片大小等。
 
   - title: 2、图像处理相关
-    url: overview-post
+    url: 2-图像处理
     desc: 该部分提供的妙妙工具用于图片处理、颜色转换等。
 
   - title: 3、键盘锁
