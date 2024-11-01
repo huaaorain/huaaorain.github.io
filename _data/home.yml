@@ -35,6 +35,18 @@ project_entries:
     url: overview-post
     desc: It also has a scalable vertical list (in case you need it)
 
+  - title: 1、批量修改文件名字、图片大小
+    url: overview-post
+    desc: 该部分提供的妙妙工具用于批量修改文件名字、图片大小等。
+
+  - title: 2、图像处理相关
+    url: overview-post
+    desc: 该部分提供的妙妙工具用于图片处理、颜色转换等。
+
+  - title: 3、键盘锁
+    url: overview-post
+    desc: 该部分提供的妙妙工具用于图片处理、颜色转换等。
+
   - title: All Collections
     url: overview-post
     desc: 这是一个所有妙妙工具的合集。
