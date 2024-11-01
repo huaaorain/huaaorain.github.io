@@ -1,10 +1,9 @@
-title: Moonwalk
+title: 它山之石 可以攻玉
 author: Abhinav Saxena
 url: https://huaaorain.github.io # root address of the site
 description: > # description of the site (multiple lines allowed)
-  本网站收集了一些工具性的妙妙工具或妙妙网站，如果您认为它对您有用的话还请在Github上点个星星，拜托啦！！！
+  本网站收集了一些工具性的网站以及软件，并按照用途大致划分了一些板块，希望可以对您有一些帮助。
 
-  This site is a collection of tools or sites that maybe useful to you, and if you think it will be useful to you, please point a star on Github!!!.
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
@@ -17,7 +16,7 @@ twitter:
 remote_theme: abhinavs/moonwalk
 
 theme_config:
-  appearance: "dark" # can be "light", "dark" or "auto"
+  appearance: "auto" # can be "light", "dark" or "auto"
   appearance_toggle: true # if appearance can be switched by user
   back_home_text: "home.." # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
@@ -36,8 +35,8 @@ theme_config:
   home:
     title_projects: Portfolio
     title_misc_list: Details
-    title_blog: Blog
-    title_old_projects: Old Projects
+    title_blog: Blogs
+    title_old_projects: Projects
 
 soopr:
   publish_token: "" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
