@@ -14,11 +14,11 @@ project_entries:
     desc: This is an example project, configured in _data/home.yml
 
   - title: Project 2
-    url: overview-post
+    url: 2020-07-08-language-tests
     desc: Projects are shown in card layout
 
   - title: Project 3
-    url: overview-post
+    url: Language Tests
     desc: You can control visibility from _config.yml file
 
   - title: Project 4
