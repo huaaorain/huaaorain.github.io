@@ -9,34 +9,34 @@ navbar_entries:
     url: https://www.abhinav.co
 
 project_entries:
-  - title: Project 1
-    url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+  # - title: Project 1
+  #   url: overview-post
+  #   desc: This is an example project, configured in _data/home.yml
 
-  - title: Project 2
-    url: 2020-07-08-language-tests
-    desc: Projects are shown in card layout
+  # - title: Project 2
+  #   url: 2020-07-08-language-tests
+  #   desc: Projects are shown in card layout
 
-  - title: Project 3
-    url: Language Tests
-    desc: You can control visibility from _config.yml file
+  # - title: Project 3
+  #   url: Language Tests
+  #   desc: You can control visibility from _config.yml file
 
-  - title: Project 4
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
+  # - title: Project 4
+  #   url: overview-post
+  #   desc: This project uses highlight markup, configured in _data/home.yml
+  #   highlight: WIP
 
-  - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
+  # - title: Project 5
+  #   url: overview-post
+  #   desc: Moonwalk also has horizontal list (used in header and footer)
+  #   highlight: WIP
 
-  - title: Project 6
-    url: https://huaaorain.github.io/posts/2024-10-31-1、批量修改
-    desc: It also has a scalable vertical list (in case you need it)
+  # - title: Project 6
+  #   url: https://huaaorain.github.io/posts/2024-10-31-1、批量修改
+  #   desc: It also has a scalable vertical list (in case you need it)
 
   - title: 1、批量修改文件名字、图片大小
-    url: 1、批量修改
+    url: 1-批量修改
     desc: 该部分提供的妙妙工具用于批量修改文件名字、图片大小等。
 
   - title: 2、图像处理相关
@@ -44,11 +44,23 @@ project_entries:
     desc: 该部分提供的妙妙工具用于图片处理、颜色转换等。
 
   - title: 3、键盘锁
-    url: overview-post
-    desc: 该部分提供的妙妙工具用于图片处理、颜色转换等。
+    url: 3-键盘锁
+    desc: 该部分提供的妙妙工具可以将键盘上锁。
+
+  - title: 4、语言类工具
+    url: 4-语言类工具
+    desc: 该部分提供TOFEL学习方法、语法检测、英文作文检测等。
+
+  - title: 5、赛博图书馆
+    url: 5-赛博图书馆
+    desc: 该部分提供一些电子版的图书、链接等。
+
+  - title: 6、开发者狂喜
+    url: 6-开发者狂喜
+    desc: 该部分提供一些用于制作游戏、视频后期、模型等。
 
   - title: All Collections
-    url: overview-post
+    url: useful-tools
     desc: 这是一个所有妙妙工具的合集。
 
 old_project_entries:
