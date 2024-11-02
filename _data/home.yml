@@ -34,6 +34,9 @@ project_entries:
   # - title: Project 6
   #   url: https://huaaorain.github.io/posts/2024-10-31-1、批量修改
   #   desc: It also has a scalable vertical list (in case you need it)
+  - title: X、无用但有趣
+    url: X-无用但有趣
+    desc: 该部分提供的妙妙工具大多没什么用，但挺好玩的。
 
   - title: 1、批量修改
     url: 1-批量修改
