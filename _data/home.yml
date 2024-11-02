@@ -35,7 +35,7 @@ project_entries:
   #   url: https://huaaorain.github.io/posts/2024-10-31-1、批量修改
   #   desc: It also has a scalable vertical list (in case you need it)
 
-  - title: 1、批量修改文件名字、图片大小
+  - title: 1、批量修改
     url: 1-批量修改
     desc: 该部分提供的妙妙工具用于批量修改文件名字、图片大小等。
 
