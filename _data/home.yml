@@ -59,6 +59,10 @@ project_entries:
     url: 6-开发者狂喜
     desc: 该部分提供一些用于制作游戏、视频后期、模型等。
 
+  - title: 7、科研小妙招
+    url: 7-科研小妙招
+    desc: 该部分提供一些科研方面的工具或网站。
+
   - title: All Collections
     url: useful-tools
     desc: 这是一个所有妙妙工具的合集。
