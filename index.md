@@ -6,4 +6,4 @@ layout: home
 
 This site is a collection of tools or sites that maybe useful to you, and if you think it will be useful to you, please point a star on [Github](https://github.com/huaaorain/huaaorain.github.io)!!!.
 
-My research focuses on database kernel technology, especially for OLAP query optimization[![](https://img.shields.io/github/stars/Wind-Gone/awesome-olap-paper?style=social&label=Code+Stars)](https://github.com/Wind-Gone/OLAP-Paper), AI4DB[![](https://img.shields.io/github/stars/Wind-Gone/awesome-ai4db-paper?style=social&label=Code+Stars)](https://github.com/Wind-Gone/Ai4DB-Paper), and benchmark design.
+这里是1[![](https://img.shields.io/github/stars/Wind-Gone/awesome-olap-paper?style=social&label=Code+Stars)](https://github.com/Wind-Gone/OLAP-Paper), 这里是2[![](https://img.shields.io/github/stars/Wind-Gone/awesome-ai4db-paper?style=social&label=Code+Stars)](https://github.com/Wind-Gone/Ai4DB-Paper).
