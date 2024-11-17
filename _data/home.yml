@@ -5,8 +5,8 @@ navbar_entries:
   - title: Blog
     url: blog
 
-  - title: website
-    url: https://www.abhinav.co
+  # - title: website
+  #   url: https://www.abhinav.co
 
 project_entries:
   # - title: Project 1
@@ -34,6 +34,7 @@ project_entries:
   # - title: Project 6
   #   url: https://huaaorain.github.io/posts/2024-10-31-1、批量修改
   #   desc: It also has a scalable vertical list (in case you need it)
+
   - title: 0、无用但有趣
     url: 0-无用但有趣
     desc: 该部分提供的妙妙工具大多没什么用，但挺好玩的。
@@ -66,9 +67,13 @@ project_entries:
     url: 7-科研小妙招
     desc: 该部分提供一些科研方面的工具或网站。
 
-  - title: All Collections
-    url: useful-tools
-    desc: 这是一个所有妙妙工具的合集。
+  - title: 8、妙妙工具网站
+    url: 8-妙妙工具网站
+    desc: 该部分提供一些工具性网站的合集。
+
+  # - title: All Collections
+  #   url: useful-tools
+  #   desc: 这是一个所有妙妙工具的合集。
 
 old_project_entries:
   - title: Soopr
@@ -76,27 +81,27 @@ old_project_entries:
     desc: Delight your readers - add beautiful share and like buttons easily to your websites 
     highlight: NEW
 
-  - title: Cookie
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
+  # - title: Cookie
+  #   url: https://github.com/abhinavs/cookie
+  #   desc: An open source landing website with supporting pages and integrated blog
 
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
+  # - title: Moonwalk
+  #   url: https://github.com/abhinavs/moonwalk
+  #   desc: A fast and minimalist Jekyll blog theme with clean dark mode
 
-  - title: Humangous
-    url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
+  # - title: Humangous
+  #   url: https://www.humangous.co
+  #   desc: The better people know you, the better they collaborate
 
 footer_entries:
   - title: abhinav's homepage
     url: https://www.abhinav.co
 
-  - title: twitter
-    url: https://twitter.com/abhinav
+  # - title: twitter
+  #   url: https://twitter.com/abhinav
 
   - title: github
-    url: https://github.com/abhinavs
+    url: https://github.com/huaaorain/huaaorain.github.io #https://github.com/abhinavs
 
   - title: feed
     url: feed.xml
