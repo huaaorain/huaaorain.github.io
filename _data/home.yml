@@ -103,8 +103,8 @@ footer_entries:
   - title: github
     url: https://github.com/huaaorain/huaaorain.github.io #https://github.com/abhinavs
 
-  - title: feed
-    url: feed.xml
+  - title: E-mail
+    url: huaaoyu@163.com
 
 misc_entries:
   - title: this is an example vertical list
