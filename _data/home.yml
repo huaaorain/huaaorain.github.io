@@ -71,15 +71,24 @@ project_entries:
     url: 8-妙妙工具网站
     desc: 该部分提供一些工具性网站的合集。
 
+  - title: 9、漫画、动漫、电视剧
+    url: 9-漫画、动漫、电视剧
+    desc: 该部分提供一些可以看漫画、动漫、电视剧的网站。
+
   # - title: All Collections
   #   url: useful-tools
   #   desc: 这是一个所有妙妙工具的合集。
 
 old_project_entries:
-  - title: Soopr
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
-    highlight: NEW
+  - title: 个人网站
+    url: https://github.com/huaaorain/huaaorain.github.io
+    desc: 这个是本网站的Github仓库
+    highlight: Useful
+
+  # - title: Soopr
+  #   url: https://www.soopr.co
+  #   desc: Delight your readers - add beautiful share and like buttons easily to your websites 
+  #   highlight: NEW
 
   # - title: Cookie
   #   url: https://github.com/abhinavs/cookie
