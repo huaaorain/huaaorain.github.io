@@ -12,7 +12,8 @@ body {
 }
 pre, code {
   font-family: "Roboto Mono", "Courier New", monospace;
-  font-size: 0.9rem;
+  font-size: 0.7rem;
+  line-height: 0.5; /* 调整为你需要的行间距 */
 }
 
 h2, h3, h4, h5 { margin-top: 1.5em; }
