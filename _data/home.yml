@@ -80,10 +80,15 @@ project_entries:
   #   desc: 这是一个所有妙妙工具的合集。
 
 old_project_entries:
+
   - title: 个人网站
     url: https://github.com/huaaorain/huaaorain.github.io
     desc: 这个是本网站的Github仓库
     highlight: Useful
+
+  - title: 建站教程
+    url: 网站调试-目录
+    desc: 基于Github Pages的系列建站教程
 
   # - title: Soopr
   #   url: https://www.soopr.co
