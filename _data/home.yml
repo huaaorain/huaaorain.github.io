@@ -75,6 +75,10 @@ project_entries:
     url: 9-漫画、动漫、电视剧
     desc: 该部分提供一些可以看漫画、动漫、电视剧的网站。
 
+  - title: 10、优美的语言
+    url: 10-优美的语言
+    desc: 该部分记录了一些本人比较喜欢的诗词、语句之类的。
+
   # - title: All Collections
   #   url: useful-tools
   #   desc: 这是一个所有妙妙工具的合集。
