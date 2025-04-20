@@ -15,7 +15,7 @@
     {% for post in group.items %}
       <li>
         <!-- 你可以在这里实现文章序号逻辑，目前未实现 -->
-        <span>序号（如果需要，可自行添加逻辑）</span>
+        <span>{{ post_num: site.theme_config.post_num }}</span> <!-- 修改这里可以修改排列顺序和内容 -->
         <a href="{{ post.url }}">{{ post.title }}</a>
       </li>
     {% endfor %}
