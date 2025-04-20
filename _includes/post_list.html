@@ -2,13 +2,7 @@
 {% assign grouped_posts = site.posts | group_by: "categories" %}
 
 {% for group in grouped_posts %}
-  <!-- 假设 group.name 是数组（即文章有多个分类），我们取第一个分类名称 -->
-  {% assign category_name = group.name | is_array ? group.name[0] : group.name %}
-  {% if group.name is array %}
-    {% assign category_name = group.name[0] %} <!-- 如果 categories 是数组，取第一个 -->
-  {% else %}
-    {% assign category_name = group.name %} <!-- 如果 categories 是字符串，直接使用 -->
-  {% endif %}
+
 
   <h2>{{ category_name }}</h2> <!-- 输出类别名称 -->
   <ul>
