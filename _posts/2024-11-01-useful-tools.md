@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "All Collections"
+categories: ["Sample"]
 ---
 
 Note: Text is from [moving](https://github.com/huangyz0918/moving), which is another good Jekyll theme.
