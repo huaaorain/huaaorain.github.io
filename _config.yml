@@ -27,6 +27,7 @@ theme_config:
   show_copyright: true # show copyright notice in footer
   # following keys are using to create home layout
   show_projects: true # show projects as cards, add in _data/home.yml
+  show_computer_projects: true # 展示电脑硬件部分, add in _data/home.yml
   show_blog: true # show blog posts added in _posts
   show_old_projects: true # show old projects as cards, add in _data/home.yml
   show_misc_list: false # show generic vertical list for misc details, add _data/home.yml
@@ -36,6 +37,7 @@ theme_config:
   home:
     title_projects: 妙妙网站
     title_misc_list: Details
+    title_computer_projects: 电脑硬件介绍
     # title_blog: Blogs
     title_old_projects: Projects
 

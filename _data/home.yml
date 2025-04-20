@@ -83,7 +83,16 @@ project_entries:
   #   url: useful-tools
   #   desc: 这是一个所有妙妙工具的合集。
 
-old_project_entries:
+computer_entries: # 电脑硬件部分
+  - title: 0、电脑硬件知识（目录）
+    url: 0-电脑硬件介绍
+    desc: 本章节介绍电脑硬件的各种知识，这部分是目录。
+
+  - title: 1、台式机主板接口
+    url: 1-台式机主板接口
+    desc: 这部分介绍了台式机主板的相关知识。
+
+old_project_entries: # 个人项目及教程
 
   - title: 个人网站
     url: https://github.com/huaaorain/huaaorain.github.io
