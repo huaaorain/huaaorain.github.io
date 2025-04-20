@@ -2,7 +2,14 @@
 {% assign grouped_posts = site.posts | group_by: "categories" %}
 
 {% for group in grouped_posts %}
-  <h2>{{ group.name }}</h2> <!-- 直接输出类别名称 -->
+  {% assign category_name = group.name | first %} <!-- 尝试取第一个元素（但这在 group_by 中不起作用） -->
+  <!-- 或者手动解析字符串（不推荐，因为容易出错） -->
+  {% if group.name contains "[" %}
+    {% assign category_name = group.name | remove: "[" | remove: "]" | strip %}
+  {% else %}
+    {% assign category_name = group.name %}
+  {% endif %}
+  <h2>{{ category_name }}</h2>
   <ul>
     {% for post in group.items %}
       <li>
