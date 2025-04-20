@@ -6,7 +6,7 @@
   <ul>
     {% for post in group.items %}
       <li>
-        <span>{{ post.date | date: site.theme_config.date_format }}</span>
+        <span>{{ post_num: site.theme_config.post_num }}</span>
         <a href="{{ post.url }}">{{ post.title }}</a>
       </li>
     {% endfor %}
