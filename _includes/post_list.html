@@ -2,8 +2,7 @@
 {% assign grouped_posts = site.posts | group_by: "categories" %}
 
 {% for group in grouped_posts %}
-  <h2>{{ group.name}}</h2> <!-- 类别名称（取数组的第一个值） -->
-
+  <h2>{{ group.name | first }}</h2> <!-- 类别名称（取数组的第一个值） -->
   <ul>
     {% for post in group.items %}
       <li>
