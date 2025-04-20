@@ -2,18 +2,11 @@
 {% assign grouped_posts = site.posts | group_by: "categories" %}
 
 {% for group in grouped_posts %}
-  <!-- 判断 group.name 是字符串还是数组，并取第一个分类名称 -->
-  {% if group.name is array %}
-    {% assign category_name = group.name[0] %}
-  {% else %}
-    {% assign category_name = group.name %}
-  {% endif %}
-
-  <h2>{{ category_name }}</h2> <!-- 输出类别名称 -->
+  <h2>{{ group.name }}</h2> <!-- 直接输出类别名称 -->
   <ul>
     {% for post in group.items %}
       <li>
-        <span>序号（如果需要，可自行添加逻辑）</span>
+        
         <a href="{{ post.url }}">{{ post.title }}</a>
       </li>
     {% endfor %}
