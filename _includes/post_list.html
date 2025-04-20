@@ -2,11 +2,20 @@
 {% assign grouped_posts = site.posts | group_by: "categories" %}
 
 {% for group in grouped_posts %}
-  <h2>{{ group.name | first }}</h2> <!-- 类别名称（取数组的第一个值） -->
+  <!-- 假设 group.name 是数组（即文章有多个分类），我们取第一个分类名称 -->
+  {% assign category_name = group.name | is_array ? group.name[0] : group.name %}
+  {% if group.name is array %}
+    {% assign category_name = group.name[0] %} <!-- 如果 categories 是数组，取第一个 -->
+  {% else %}
+    {% assign category_name = group.name %} <!-- 如果 categories 是字符串，直接使用 -->
+  {% endif %}
+
+  <h2>{{ category_name }}</h2> <!-- 输出类别名称 -->
   <ul>
     {% for post in group.items %}
       <li>
-        <span>{{ post_num: site.theme_config.post_num }}</span> <!-- 修改这里可以修改排列顺序和内容 -->
+        <!-- 你可以在这里实现文章序号逻辑，目前未实现 -->
+        <span>序号（如果需要，可自行添加逻辑）</span>
         <a href="{{ post.url }}">{{ post.title }}</a>
       </li>
     {% endfor %}
