@@ -7,25 +7,25 @@
   }
 </style>
 
-{% assign grouped_posts = site.posts | group_by: "categories" %}
+<!-- {% assign grouped_posts = site.posts | group_by: "categories" %}
 
 {% for group in grouped_posts %}
   {% assign raw_category_name = group.name %}
   
-  <!-- 去掉方括号和引号 -->
+
   {% assign category_name = raw_category_name 
     | remove: "[" 
     | remove: "]" 
     | remove: '"' 
     | strip %}
   
-  <h2 class="category-title">{{ category_name }}</h2> <!-- 使用自定义类 -->
+  <h2 class="category-title">{{ category_name }}</h2> 
   <ul>
     {% for post in group.items %}
       <li>
 
-        <!-- <a href="{{ post.url }}">{{ post.title }}</a> -->
+        <a href="{{ post.url }}">{{ post.title }}</a>
       </li>
     {% endfor %}
   </ul>
-{% endfor %}
+{% endfor %} -->
