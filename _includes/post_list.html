@@ -11,11 +11,11 @@
     | remove: '"' 
     | strip %}
   
-  <h2>{{ category_name }}</h2>
+  <h2 style="font-size: 18px;">{{ category_name }}</h2>
   <ul>
     {% for post in group.items %}
       <li>
-        
+
         <a href="{{ post.url }}">{{ post.title }}</a>
       </li>
     {% endfor %}
