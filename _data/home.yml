@@ -88,9 +88,17 @@ computer_entries: # 电脑硬件部分
     url: 0-电脑硬件介绍
     desc: 本章节介绍电脑硬件的各种知识，这部分是目录。
 
+  - title: 1、CPU：电脑的大脑
+    url: 1-CPU
+    desc: 这部分介绍了CPU。
+
   - title: 2、主板：电脑的躯干
-    url: 1-台式机主板接口
+    url: 2-台式机主板接口
     desc: 这部分介绍了台式机主板的相关知识。
+
+  - title: 3、内存：数据的桥梁
+    url: 3-内存
+    desc: 这部分介绍了内存。
 
 old_project_entries: # 个人项目及教程
 
