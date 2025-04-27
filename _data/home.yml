@@ -102,7 +102,7 @@ computer_entries: # 电脑硬件部分
     desc: 本章节介绍电脑硬件的各种知识，这部分是目录。
 
   - title: 1、CPU：电脑的大脑
-    url: 1-CPU
+    url: 1-中央处理器CPU
     desc: 这部分介绍了CPU。
 
   - title: 2、主板：电脑的躯干
