@@ -85,7 +85,7 @@ project_entries:
 
 computer_skills_entries: # 电脑小技巧部分
   - title: 0、电脑小技巧（目录）
-    url: 0-电脑小技巧(目录)
+    url: 0-电脑小技巧-目录
     desc: 本章节介绍电脑的各种技巧，这部分是目录。
 
   - title: 1、安装系统
