@@ -83,6 +83,19 @@ project_entries:
   #   url: useful-tools
   #   desc: 这是一个所有妙妙工具的合集。
 
+computer_skills_entries: # 电脑小技巧部分
+  - title: 0、电脑小技巧（目录）
+    url: 0-PC小技巧-目录
+    desc: 本章节介绍电脑的各种技巧，这部分是目录。
+
+  - title: 1、安装系统
+    url: 1-安装系统
+    desc: 这部分介绍了如何安装操作系统。
+
+  - title: 2、U盘启动盘恢复
+    url: 2-U盘启动盘恢复
+    desc: 这部分介绍了如何将系统安装U盘恢复为普通U盘。
+
 computer_entries: # 电脑硬件部分
   - title: 0、电脑硬件（目录）
     url: 0-电脑硬件介绍

@@ -17,9 +17,16 @@ layout: default
 {{ content }}
 <!-- 这部分是工具性网站集合 -->
 {% if site.theme_config.show_projects == true %}
-  <h2>{{ site.theme_config.home.title_projects }}</h2>
+  <h2>{{ site.theme_config.home.magic_web_projects }}</h2>
   {% include card_list.html collection=site.data.home.project_entries %}
 {% endif %}
+
+<!-- 这部分是电脑小技巧集合 -->
+{% if site.theme_config.show_computer_skills_projects == true %}
+  <h2>{{ site.theme_config.home.title_computer_skills_projects }}</h2>
+  {% include card_list.html collection=site.data.home.project_entries %}
+{% endif %}
+computer_skills_entries
 
 <!-- 这部分是电脑硬件部分 -->
 {% if site.theme_config.show_computer_projects == true %}
