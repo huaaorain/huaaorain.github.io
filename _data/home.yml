@@ -113,8 +113,12 @@ computer_entries: # 电脑硬件部分
     url: 3-内存
     desc: 这部分介绍了内存。
 
-old_project_entries: # 个人项目及教程
+web_skills_entries: # 网站调试部分
+  - title: 0、网站调试（目录）
+    url: 0-网站调试-目录
+    desc: 本章节介绍网站调试的各种知识，这部分是目录。
 
+old_project_entries: # 个人项目及教程
   - title: 个人网站
     url: https://github.com/huaaorain/huaaorain.github.io
     desc: 这个是本网站的Github仓库
