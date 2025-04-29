@@ -26,7 +26,7 @@ theme_config:
   show_footer: true # show footer links in home page,add in _data/home.yml
   show_copyright: true # show copyright notice in footer
   # following keys are using to create home layout
-  magic_web_projects: true # show projects as cards, add in _data/home.yml
+  show_projects: true # show projects as cards, add in _data/home.yml
   show_computer_skills_projects: true # 展示电脑硬件部分, add in _data/home.yml
   # show_web_skills_projects: true # 展示网站调试部分, add in _data/home.yml
   show_computer_projects: true # 展示电脑硬件部分, add in _data/home.yml
