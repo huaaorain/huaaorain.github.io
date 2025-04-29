@@ -9,32 +9,6 @@ navbar_entries:
   #   url: https://www.abhinav.co
 
 project_entries:
-  # - title: Project 1
-  #   url: overview-post
-  #   desc: This is an example project, configured in _data/home.yml
-
-  # - title: Project 2
-  #   url: 2020-07-08-language-tests
-  #   desc: Projects are shown in card layout
-
-  # - title: Project 3
-  #   url: Language Tests
-  #   desc: You can control visibility from _config.yml file
-
-  # - title: Project 4
-  #   url: overview-post
-  #   desc: This project uses highlight markup, configured in _data/home.yml
-  #   highlight: WIP
-
-  # - title: Project 5
-  #   url: overview-post
-  #   desc: Moonwalk also has horizontal list (used in header and footer)
-  #   highlight: WIP
-
-  # - title: Project 6
-  #   url: https://huaaorain.github.io/posts/2024-10-31-1、批量修改
-  #   desc: It also has a scalable vertical list (in case you need it)
-
   - title: 0、无用但有趣
     url: 0-无用但有趣
     desc: 该部分提供的妙妙工具大多没什么用，但挺好玩的。
@@ -82,6 +56,32 @@ project_entries:
   # - title: All Collections
   #   url: useful-tools
   #   desc: 这是一个所有妙妙工具的合集。
+
+  # - title: Project 1
+  #   url: overview-post
+  #   desc: This is an example project, configured in _data/home.yml
+
+  # - title: Project 2
+  #   url: 2020-07-08-language-tests
+  #   desc: Projects are shown in card layout
+
+  # - title: Project 3
+  #   url: Language Tests
+  #   desc: You can control visibility from _config.yml file
+
+  # - title: Project 4
+  #   url: overview-post
+  #   desc: This project uses highlight markup, configured in _data/home.yml
+  #   highlight: WIP
+
+  # - title: Project 5
+  #   url: overview-post
+  #   desc: Moonwalk also has horizontal list (used in header and footer)
+  #   highlight: WIP
+
+  # - title: Project 6
+  #   url: https://huaaorain.github.io/posts/2024-10-31-1、批量修改
+  #   desc: It also has a scalable vertical list (in case you need it)
 
 computer_skills_entries: # 电脑小技巧部分
   - title: 0、电脑小技巧（目录）
