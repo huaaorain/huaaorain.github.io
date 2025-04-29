@@ -16,7 +16,7 @@ layout: default
 
 {{ content }}
 <!-- 这部分是工具性网站集合 -->
-{% if site.theme_config.show_projects == true %}
+{% if site.theme_config.magic_web_projects == true %}
   <h2>{{ site.theme_config.home.magic_web_projects }}</h2>
   {% include card_list.html collection=site.data.home.magic_web_entries %}
 {% endif %}
