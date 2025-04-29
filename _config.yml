@@ -26,7 +26,7 @@ theme_config:
   show_footer: true # show footer links in home page,add in _data/home.yml
   show_copyright: true # show copyright notice in footer
   # following keys are using to create home layout
-  magic_web_projects: true # show projects as cards, add in _data/home.yml
+  show_magic_web_projects: true # show projects as cards, add in _data/home.yml
   show_computer_skills_projects: true # 展示电脑硬件部分, add in _data/home.yml
   show_computer_projects: true # 展示电脑硬件部分, add in _data/home.yml
   show_blog: true # show blog posts added in _posts
@@ -36,7 +36,7 @@ theme_config:
   show_tags: true # show tags in a blog posts
   # options for "home" page
   home:
-    magic_web_projects: 妙妙网站
+    title_magic_web_projects: 妙妙网站
     title_misc_list: Details
     title_computer_skills_projects: 电脑小技巧介绍
     title_computer_projects: 电脑硬件介绍
