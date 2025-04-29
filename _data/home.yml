@@ -83,7 +83,7 @@ magic_web_entries:
   #   url: https://huaaorain.github.io/posts/2024-10-31-1、批量修改
   #   desc: It also has a scalable vertical list (in case you need it)
 
-web_entries: # 网站调试部分
+web_skills_entries: # 网站调试部分
   - title: 0、网站调试（目录）
     url: 0-网站调试-目录
     desc: 本章节介绍网站调试的各种技巧，这部分是目录。

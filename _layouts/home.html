@@ -17,7 +17,7 @@ layout: default
 {{ content }}
 <!-- 这部分是工具性网站集合 -->
 {% if site.theme_config.magic_web_projects == true %}
-  <h2>{{ site.theme_config.home.magic_web_projects }}</h2>
+  <h2>{{ site.theme_config.home.title_magic_web_projects }}</h2>
   {% include card_list.html collection=site.data.home.magic_web_entries %}
 {% endif %}
 
@@ -31,6 +31,12 @@ layout: default
 {% if site.theme_config.show_computer_projects == true %}
   <h2>{{ site.theme_config.home.title_computer_projects }}</h2>
   {% include card_list.html collection=site.data.home.computer_entries %}
+{% endif %}
+
+<!-- 这部分是网站调试部分集合 -->
+{% if site.theme_config.show_web_skills_projects == true %}
+  <h2>{{ site.theme_config.home.title_web_skills_projects }}</h2>
+  {% include card_list.html collection=site.data.home.web_skills_entries %}
 {% endif %}
 
 <!-- {% if site.theme_config.show_misc_list == true %}
