@@ -118,6 +118,14 @@ web_skills_entries: # 网站调试部分
     url: 0-网站调试-目录
     desc: 本章节介绍网站调试的各种知识，这部分是目录。
 
+  - title: 1、改变代码行间距
+    url: 1-代码行间距调试
+    desc: 本章节介绍如何更改网站样式中的代码行间距。
+
+  - title: 3、侧边栏恢复
+    url: 3-侧边栏恢复
+    desc: 本章节介绍如何恢复VS Code的侧边栏。
+
 old_project_entries: # 个人项目及教程
   - title: 个人网站
     url: https://github.com/huaaorain/huaaorain.github.io
