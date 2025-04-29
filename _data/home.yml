@@ -8,7 +8,7 @@ navbar_entries:
   # - title: website
   #   url: https://www.abhinav.co
 
-project_entries:
+magic_web_entries:
   - title: 0、无用但有趣
     url: 0-无用但有趣
     desc: 该部分提供的妙妙工具大多没什么用，但挺好玩的。
@@ -82,6 +82,21 @@ project_entries:
   # - title: Project 6
   #   url: https://huaaorain.github.io/posts/2024-10-31-1、批量修改
   #   desc: It also has a scalable vertical list (in case you need it)
+
+web_entries: # 网站调试部分
+  - title: 0、网站调试（目录）
+    url: 0-网站调试-目录
+    desc: 本章节介绍网站调试的各种技巧，这部分是目录。
+  - title: 1、行间距设置
+    url: 1-代码行间距调试
+    desc: 本章节介绍网站行间距的调试方法。
+  - title: 2、新建专栏
+    url: 2-新建专栏
+    desc: 本章节介绍如何新建一个专栏。
+  - title: 3、侧边栏恢复
+    url: 3-侧边栏恢复
+    desc: 本章节介绍的是如何恢复VSCode的侧边栏。
+  
 
 computer_skills_entries: # 电脑小技巧部分
   - title: 0、电脑小技巧（目录）
