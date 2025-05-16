@@ -8,6 +8,12 @@ navbar_entries:
   # - title: website
   #   url: https://www.abhinav.co
 
+old_project_entries: # 个人项目及教程
+  - title: 个人网站
+    url: https://github.com/huaaorain/huaaorain.github.io
+    desc: 这个是本网站的Github仓库
+    highlight: Useful
+
 magic_web_entries:
   - title: 0、无用但有趣
     url: 0-无用但有趣
@@ -125,12 +131,6 @@ web_skills_entries: # 网站调试部分
   - title: 3、侧边栏恢复
     url: 3-侧边栏恢复
     desc: 本章节介绍如何恢复VS Code的侧边栏。
-
-old_project_entries: # 个人项目及教程
-  - title: 个人网站
-    url: https://github.com/huaaorain/huaaorain.github.io
-    desc: 这个是本网站的Github仓库
-    highlight: Useful
 
   # - title: Soopr
   #   url: https://www.soopr.co
