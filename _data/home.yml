@@ -132,9 +132,13 @@ old_project_entries: # 个人项目及教程
     desc: 这个是本网站的Github仓库
     highlight: Useful
 
-  - title: 人工智能导论项目
+  - title: 人工智能导论项目-李懿真
     url: 人工智能导论
-    desc: 这个是人工智能导论课程的讲解视频
+    desc: 这个是人工智能导论课程的讲解视频（李懿真）
+
+  - title: 人工智能导论项目-陈晶
+    url: 人工智能导论-陈
+    desc: 这个是人工智能导论课程的讲解视频（陈晶）
 
   # - title: Soopr
   #   url: https://www.soopr.co
