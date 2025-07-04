@@ -126,6 +126,15 @@ web_skills_entries: # 网站调试部分
     url: 3-侧边栏恢复
     desc: 本章节介绍如何恢复VS Code的侧边栏。
 
+Raspberry_Pi_entries: # 网站调试部分
+  - title: 0、树莓派调试目录
+    url: 0-树莓派调试目录
+    desc: 本章节介绍树莓派调试的一些记录，这部分是目录。
+
+  - title: 1、树莓派烧录系统
+    url: 1-树莓派烧录系统
+    desc: 本章节介绍如何下载并烧录树莓派系统。
+
 old_project_entries: # 个人项目及教程
   - title: 个人网站
     url: https://github.com/huaaorain/huaaorain.github.io

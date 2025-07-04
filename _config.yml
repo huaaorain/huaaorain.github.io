@@ -30,6 +30,7 @@ theme_config:
   show_computer_skills_projects: true # 电脑小技巧部分
   show_computer_projects: true # 电脑硬件部分
   show_web_skills_projects: true # 网站调试部分
+  show_Raspberry_Pi_projects: true # 网站调试部分
   show_blog: true # show blog posts added in _posts
   show_old_projects: true # show old projects as cards, add in _data/home.yml
   show_misc_list: false # show generic vertical list for misc details, add _data/home.yml
@@ -41,6 +42,7 @@ theme_config:
     title_computer_skills_projects: 电脑小技巧介绍
     title_computer_projects: 电脑硬件介绍
     title_web_skills_projects: 网站调试部分
+    title_Raspberry_Pi_projects: 树莓派调试部分
     title_misc_list: Details
     # title_blog: Blogs
     title_old_projects: Projects

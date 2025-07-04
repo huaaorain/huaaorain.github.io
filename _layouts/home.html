@@ -39,6 +39,12 @@ layout: default
   {% include card_list.html collection=site.data.home.web_skills_entries %}
 {% endif %}
 
+<!-- 这部分是树莓派调试部分 -->
+{% if site.theme_config.show_Raspberry_Pi_projects == true %}
+  <h2>{{ site.theme_config.home.title_Raspberry_Pi_projects }}</h2>
+  {% include card_list.html collection=site.data.home.Raspberry_Pi_entries %}
+{% endif %}
+
 <!-- {% if site.theme_config.show_misc_list == true %}
   <h2>{{ site.theme_config.home.title_misc_list }}</h2>
   {% include vertical_list.html collection=site.data.home.misc_entries %}
