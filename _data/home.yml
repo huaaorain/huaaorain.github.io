@@ -135,6 +135,10 @@ Raspberry_Pi_entries: # 网站调试部分
     url: 1-树莓派烧录系统
     desc: 本章节介绍如何下载并烧录树莓派系统。
 
+  - title: 2、树莓派接口介绍
+    url: 2-树莓派接口介绍
+    desc: 本章节介绍树莓派4B的接口。
+
 old_project_entries: # 个人项目及教程
   - title: 个人网站
     url: https://github.com/huaaorain/huaaorain.github.io
