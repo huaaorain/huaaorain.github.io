@@ -104,6 +104,10 @@ computer_skills_entries: # 电脑小技巧部分
     url: 4-关闭数据跨境传输
     desc: 这部分介绍了重装系统时如何关闭“同意个人数据跨境传输”。
 
+  - title: 5、系统迁移
+    url: 5-系统迁移
+    desc: 这部分介绍了如何进行系统迁移。
+
 computer_entries: # 电脑硬件部分
   - title: 0、电脑硬件（目录）
     url: 0-电脑硬件介绍
